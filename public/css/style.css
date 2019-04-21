@@ -3,6 +3,7 @@ html {
 }
 
 body {
+  background: hsl(0, 0%, 93%);
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
     Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 20px;
@@ -22,6 +23,14 @@ a:hover {
 
 img {
   max-width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  font-size: 50px;
 }
 
 .wrapper {
